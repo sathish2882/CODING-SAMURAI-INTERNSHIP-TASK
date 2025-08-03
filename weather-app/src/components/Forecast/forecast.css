@@ -1,0 +1,149 @@
+.title {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+@media screen and (max-width:767px){
+  .title {
+  font-size: 22px;
+  font-weight: 700;
+  margin-left: 15px;
+}
+
+}
+
+
+.daily-item {
+  background-color: #ffffff;
+  border-radius: 15px;
+  height: 45px;
+  cursor: pointer;
+  padding: 5px 20px;
+  display: flex;
+  align-items: center;
+  margin: 5px;
+  font-size: 15px;
+}
+
+@media screen and (max-width:767px){
+   .daily-item {
+  background-color: #ffffff;
+  border-radius: 15px;
+  height: 45px;
+  cursor: pointer;
+  padding: 5px 0px;
+  display: flex;
+  align-items: center;
+  margin: 5px;
+  font-size: 15px;
+}
+}
+
+.icon-small {
+    width: 50px;
+}
+
+.day {
+     flex: 1 1;
+     color: #212121;
+     font-weight: 600;
+     margin-left: 15px;
+}
+
+@media screen and (max-width:767px){ 
+  .day {
+     flex: 1 1;
+     color: #212121;
+     font-weight: 600;
+     font-size: 14px;
+     margin-left: 5px;
+}
+}
+
+.description {
+    flex: 1 1;
+    margin-right: 15px;
+    text-align: right;
+}
+
+@media screen and (max-width:767px){ 
+  .description {
+    flex: 1 1;
+    margin-right: 15px;
+    text-align: right;
+    font-size: 14px;
+}
+}
+
+
+
+.min-max {
+     color: #757575;
+}
+
+@media screen and (max-width:767px){ 
+    .min-max {
+     color: #757575;
+     font-size: 14px;
+}
+
+ }
+
+
+
+.daily-details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 5px;
+  padding: 5px 20px;
+  background-color: skyblue;
+  border-radius: 15px;
+}
+
+@media screen and (max-width:767px){  
+  .daily-details {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 5px;
+  padding: 5px 20px;
+  background-color: skyblue;
+  border-radius: 15px;
+  height: 400px;
+}
+
+}
+
+
+.daily-details-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+
+}
+
+@media screen and (max-width:767px){  
+   .daily-details-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+
+}
+
+}
+
+.daily-details-sub-items{
+    font-weight: 600;
+    font-size: 16px;
+}
+
+@media screen and (max-width:767px){  
+   .daily-details-sub-items{
+    font-weight: 600;
+    font-size: 14px;
+}
+}
