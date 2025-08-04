@@ -9,7 +9,7 @@ It includes all the projects completed during my internship at **Coding Samurai*
 
 ### Task 1: Weather App
 
-Weather forecast app using OpenWeather API. Features city search with autocomplete and 5-day forecast.
+Weather forecast app using OpenWeather API. Features city search with autocomplete and 7-day forecast.
 
 - [Live Demo](https://coding-samurai-internship-task-yx23.vercel.app/)
 - Tech Stack: React.js, Fetch API, CSS
