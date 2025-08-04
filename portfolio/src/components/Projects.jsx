@@ -20,6 +20,22 @@ function Projects() {
         </div>
 
         <div className="project-item">
+          <h3>🔢 Counter App</h3>
+          <p>A simple React app that allows users to increment, decrement, and reset a number using useState.</p>
+          <a href="https://coding-samurai-internship-task-v93f.vercel.app/" target="_blank" rel="noreferrer">
+            🔗 Live Demo
+          </a>
+        </div>
+
+        <div className="project-item">
+          <h3>🌦️ Weather App</h3>
+          <p>A weather forecast application built using React.js and OpenWeather API. Includes autocomplete and 7-day forecast.</p>
+          <a href="https://coding-samurai-internship-task-yx23.vercel.app/" target="_blank" rel="noreferrer">
+            🔗 Live Demo
+          </a>
+        </div>
+
+        <div className="project-item">
           <h3>🌐 Portfolio Website</h3>
           <p>My personal portfolio built using React.js and normal CSS to showcase skills and projects.</p>
           <a href="#" target="_blank" rel="noreferrer">

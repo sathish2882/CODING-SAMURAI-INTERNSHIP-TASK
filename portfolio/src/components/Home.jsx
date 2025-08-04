@@ -1,5 +1,4 @@
-
-import './Home.css';
+import "./Home.css";
 
 function Home() {
   return (
@@ -13,11 +12,25 @@ function Home() {
       </div>
 
       <div className="home-right">
-        <h1>Hello, I’m <span className="blue">Sathish</span></h1>
+        <h1>
+          Hello, I’m <span className="blue">Sathish</span>
+        </h1>
         <p className="home-subtitle">
-          Frontend Developer passionate about building modern, responsive, and user-friendly web applications using React.js and CSS.
+          Frontend Developer passionate about building modern, responsive, and
+          user-friendly web applications using React.js and CSS.
         </p>
-        <a href="#projects" className="home-button">View Projects</a>
+        <div className="download-section">
+          <a href="#projects" className="home-button">
+            View Projects
+          </a>
+          <a
+            href="/Sathish_M_Resume.pdf"
+            download="Sathish_M_Resume.pdf"
+            className="download-resume"
+          >
+            Download Resume
+          </a>
+        </div>
       </div>
     </div>
   );
