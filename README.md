@@ -20,7 +20,7 @@ Weather forecast app using OpenWeather API. Features city search with autocomple
 
 Personal portfolio to showcase projects and skills. Fully responsive and built with React.js and normal CSS.
 
-- [Live Demo](https://coding-samurai-internship-task-plum.vercel.app/)
+- [Live Demo](https://coding-samurai-internship-task-1paw.vercel.app/)
 - Tech Stack: React.js, HTML5, CSS3
 
 ---
@@ -39,7 +39,7 @@ Simple counter app with increment, decrement, and reset. Demonstrates use of use
 - **Name**: Sathish M  
 - **Email**: [sathish19222978sk@gmail.com](mailto:sathish19222978sk@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/sathish-mariyappan](https://www.linkedin.com/in/sathish-mariyappan)  
-- **Portfolio**: [View Portfolio](https://coding-samurai-internship-task-plum.vercel.app/)
+- **Portfolio**: [View Portfolio](https://coding-samurai-internship-task-1paw.vercel.app/)
 
 ---
 
