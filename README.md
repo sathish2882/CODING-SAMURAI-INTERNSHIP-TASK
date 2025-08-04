@@ -20,7 +20,7 @@ Weather forecast app using OpenWeather API. Features city search with autocomple
 
 Personal portfolio to showcase projects and skills. Fully responsive and built with React.js and normal CSS.
 
-- Live Demo: *(Add link if hosted](https://coding-samurai-internship-task-plum.vercel.app/)*
+- Live Demo: *(https://coding-samurai-internship-task-plum.vercel.app/)*
 - Tech Stack: React.js, HTML5, CSS3
 
 ---
