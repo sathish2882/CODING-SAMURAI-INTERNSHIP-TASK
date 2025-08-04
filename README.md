@@ -11,7 +11,7 @@ It includes all the projects completed during my internship at **Coding Samurai*
 
 Weather forecast app using OpenWeather API. Features city search with autocomplete and 5-day forecast.
 
-- Live Demo: *(https://coding-samurai-internship-task-yx23.vercel.app/)*
+- [Live Demo](https://coding-samurai-internship-task-yx23.vercel.app/)
 - Tech Stack: React.js, Fetch API, CSS
 
 ---
@@ -20,7 +20,7 @@ Weather forecast app using OpenWeather API. Features city search with autocomple
 
 Personal portfolio to showcase projects and skills. Fully responsive and built with React.js and normal CSS.
 
-- Live Demo: *(https://coding-samurai-internship-task-plum.vercel.app/)*
+- [Live Demo](https://coding-samurai-internship-task-plum.vercel.app/)
 - Tech Stack: React.js, HTML5, CSS3
 
 ---
@@ -29,17 +29,17 @@ Personal portfolio to showcase projects and skills. Fully responsive and built w
 
 Simple counter app with increment, decrement, and reset. Demonstrates use of useState in React.
 
-- Live Demo: *(https://coding-samurai-internship-task-v93f.vercel.app/)*
+- [Live Demo](https://coding-samurai-internship-task-v93f.vercel.app/)
 - Tech Stack: React.js
 
 ---
 
 ## About Me
 
-- Name: Sathish M  
-- Email: [sathish19222978sk@gmail.com](mailto:sathish19222978sk@gmail.com)  
-- LinkedIn: [linkedin.com/in/sathish-mariyappan](https://www.linkedin.com/in/sathish-mariyappan)  
-- Portfolio: [sathishinstapro.ccbp.tech](https://sathishinstapro.ccbp.tech)
+- **Name**: Sathish M  
+- **Email**: [sathish19222978sk@gmail.com](mailto:sathish19222978sk@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/sathish-mariyappan](https://www.linkedin.com/in/sathish-mariyappan)  
+- **Portfolio**: [View Portfolio](https://coding-samurai-internship-task-plum.vercel.app/)
 
 ---
 
