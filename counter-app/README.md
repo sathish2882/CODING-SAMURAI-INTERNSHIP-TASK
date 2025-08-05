@@ -8,7 +8,7 @@ It allows users to increment, decrement, and reset the counter with real-time UI
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live app](https://your-live-link.vercel.app)
+👉 [Click here to view the live app](https://coding-samurai-internship-task-v93f.vercel.app/)
 
 ---
 
