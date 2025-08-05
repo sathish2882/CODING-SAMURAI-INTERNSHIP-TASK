@@ -65,11 +65,7 @@ Thanks to Coding Samurai for the opportunity to build this project as part of th
 
 📬 Contact
 Sathish M
-📧 sathish19222978sk@gmail.com
-🔗 Portfolio
-🔗 LinkedIn
-🔗 GitHub
+sathish19222978sk@gmail.com
 
----
 
 Let me know if you want to include a GIF demo or if you need help writing the README for your other projects too (like InstaShare or Dashboard).
