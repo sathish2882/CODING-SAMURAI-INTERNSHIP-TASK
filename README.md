@@ -4,7 +4,7 @@ This is a **React.js Development Tasks Repository**.
 It includes all the projects completed during my internship at **Coding Samurai**.
 
 ---
-
+ 
 ## Projects
 
 ### Task 1: Weather App
